@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Passed final passage as recommended by conference committee; yeas, 54; nays, 43; absent, 0; excused, 1.",
+    "occurred_at": "2026-03-12",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=5998&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 5998"
+}

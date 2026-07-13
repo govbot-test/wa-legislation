@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed final passage; yeas, 57; nays, 36; absent, 0; excused, 5.",
+    "occurred_at": "2025-04-19",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=1587&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1587"
+}

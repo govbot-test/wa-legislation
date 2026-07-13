@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "1st substitute bill substituted (HCW 25).",
+    "occurred_at": "2025-03-04",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "substitution"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=1706&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1706"
+}

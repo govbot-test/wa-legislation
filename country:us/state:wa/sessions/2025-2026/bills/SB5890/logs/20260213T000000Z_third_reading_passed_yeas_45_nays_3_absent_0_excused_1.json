@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Third reading, passed; yeas, 45; nays, 3; absent, 0; excused, 1.",
+    "occurred_at": "2026-02-13",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=5890&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 5890"
+}

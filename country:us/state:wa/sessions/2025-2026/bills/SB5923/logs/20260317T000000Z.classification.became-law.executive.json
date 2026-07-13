@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Effective date 6/11/2026.",
+    "occurred_at": "2026-03-17",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "became-law"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=5923&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 5923"
+}

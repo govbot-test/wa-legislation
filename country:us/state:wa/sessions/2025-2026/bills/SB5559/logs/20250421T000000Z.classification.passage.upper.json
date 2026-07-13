@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Passed final passage; yeas, 48; nays, 0; absent, 0; excused, 0.",
+    "occurred_at": "2025-04-21",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "passage"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=5559&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 5559"
+}

@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Executive action taken in the Senate Committee on Ways & Means at 4:00 PM.",
+    "occurred_at": "2025-02-06",
+    "jurisdiction_id": "~{\"classification\": \"upper\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=5316&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 5316"
+}

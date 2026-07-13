@@ -1,0 +1,18 @@
+{
+  "action": {
+    "description": "Public hearing in the House Committee on Community Safety at 4:00 PM.",
+    "occurred_at": "2025-01-28",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=1274&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1274"
+}

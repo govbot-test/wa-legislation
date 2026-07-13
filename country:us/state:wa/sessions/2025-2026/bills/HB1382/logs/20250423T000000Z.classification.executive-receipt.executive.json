@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Delivered to Governor.",
+    "occurred_at": "2025-04-23",
+    "jurisdiction_id": "~{\"classification\": \"executive\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "executive-receipt"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=1382&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1382"
+}
