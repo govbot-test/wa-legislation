@@ -1,0 +1,20 @@
+{
+  "action": {
+    "description": "Third reading, passed; yeas, 74; nays, 15; absent, 0; excused, 9.",
+    "occurred_at": "2026-02-23",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-3"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=1960&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "HB 1960"
+}

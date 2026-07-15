@@ -94,6 +94,16 @@
       "_processing": {
         "log_file_created": "2026-07-13T06:07:53Z"
       }
+    },
+    {
+      "description": "By resolution, reintroduced and retained in present status.",
+      "date": "2026-01-12",
+      "organization_id": "~{\"classification\": \"lower\"}",
+      "classification": [],
+      "related_entities": [],
+      "_processing": {
+        "log_file_created": "2026-07-15T13:18:34Z"
+      }
     }
   ],
   "sponsorships": [
@@ -166,10 +176,32 @@
   ],
   "documents": [
     {
+      "note": "Amendment ORCU H3036.1",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Amendments/House/4200%20AMH%20ORCU%20H3036.1.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
       "note": "Amendment SCHM H1832.1",
       "links": [
         {
           "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Amendments/House/4200%20AMH%20SCHM%20H1832.1.htm",
+          "media_type": "text/html"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    },
+    {
+      "note": "Amendment SCHM H2611.1",
+      "links": [
+        {
+          "url": "http://lawfilesext.leg.wa.gov/Biennium/2025-26/Htm/Amendments/House/4200%20AMH%20SCHM%20H2611.1.htm",
           "media_type": "text/html"
         }
       ],
@@ -207,7 +239,7 @@
     "division_id": "ocd-division/country:us/state:wa"
   },
   "_processing": {
-    "logs_latest_update": "2026-07-13T06:07:53Z",
+    "logs_latest_update": "2026-07-15T13:18:34Z",
     "text_extraction_latest_update": "2026-07-13T07:07:42.157029Z"
   }
 }

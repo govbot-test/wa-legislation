@@ -1,0 +1,21 @@
+{
+  "action": {
+    "description": "First reading, referred to Capital Budget.",
+    "occurred_at": "2026-01-26",
+    "jurisdiction_id": "~{\"classification\": \"lower\"}",
+    "session_id": "2025-2026",
+    "entity_type": "bill",
+    "classifications": [
+      "reading-1",
+      "referral-committee"
+    ],
+    "related_entities": [],
+    "sources": [
+      {
+        "url": "https://app.leg.wa.gov/billsummary/?BillNumber=5188&Year=2025&Initiative=false",
+        "note": ""
+      }
+    ]
+  },
+  "bill_id": "SB 5188"
+}
